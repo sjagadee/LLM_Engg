@@ -13,3 +13,5 @@ wheels/
 .env
 
 .gradio
+
+prices.db
